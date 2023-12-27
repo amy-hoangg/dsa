@@ -1,6 +1,9 @@
 # Data Structure and Algorithm Project
 
 GUI of the project
+![Alt text](Untitled.png)
+![Alt text](dsa1.png)
+![Alt text](dsa2.png)
 
 
 In this programming assignment focused on ScholarNet, a social network for affiliations, students engage with implementing data structures and algorithms. The primary objective is to develop a program facilitating the input and search functionalities for affiliation-related information and their interlinked publications. Within this assignment, some operations are compulsory while others remain optional. The compulsory tasks are fundamental for passing, while implementing optional parts positively impacts the grade.
